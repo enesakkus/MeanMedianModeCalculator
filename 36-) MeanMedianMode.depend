@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579549201 source:c:\users\ethem\desktop\c programming\36-) meanmedianmode\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
